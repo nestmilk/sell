@@ -1,0 +1,52 @@
+{
+  "errno": 0,
+  "data": {
+    "name": "庞碧自然",
+    "description": "专业服务专业",
+    "deliveryTime": 38,
+    "score": 4.2,
+    "serviceScore": 4.1,
+    "foodScore": 4.3,
+    "rankRate": 69.2,
+    "minPrice": 0,
+    "deliveryPrice": 0,
+    "ratingCount": 24,
+    "sellCount": 90,
+    "bulletin": "用心做服务，坚持初心！！",
+    "supports": [
+      {
+        "type": 0,
+        "description": "10日内完成"
+      },
+      {
+        "type": 1,
+        "description": "专业人事帮您忙"
+      },
+      {
+        "type": 2,
+        "description": "可来电垂询套餐服务"
+      },
+      {
+        "type": 3,
+        "description": "该商家支持发票,请下单写好发票抬头"
+      },
+      {
+        "type": 4,
+        "description": "服务有保障"
+      }
+    ],
+    "avatar": "http://pombase.natapp1.cc/sell/img/dog_50x50.png",
+    "pics": [
+      "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/f/96/3d608c5811bc2d902fc9ab9a5baa7jpeg.jpeg?imageView2/1/w/180/h/180",
+      "http://fuss10.elemecdn.com/6/ad/779f8620ff49f701cd4c58f6448b6jpeg.jpeg?imageView2/1/w/180/h/180"
+    ],
+    "infos": [
+      "该商家支持发票,请下单写好发票抬头",
+      "品类丰富",
+      "上海奉贤奉浦大道100号",
+      "营业时间:10:00-20:30"
+    ]
+  }
+}
