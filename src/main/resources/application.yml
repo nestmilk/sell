@@ -3,13 +3,13 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: 123456
-    url: jdbc:mysql://192.168.0.200/sell?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://localhost/sell?characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai
   jpa:
     show-sql: true
   jackson:
     default-property-inclusion: non_null
   redis:
-    host: 192.168.0.200
+    host: localhost
     port: 6379
 server:
   servlet:
@@ -19,7 +19,7 @@ wechat:
   mpAppSecret: 1cd44ad33a96db45a5cfec585e10926f
   mchId: 1514671951
   mchKey: kevinismydogkiwiismydaughter1234
-  keyPath: D:\Try\sell\h5.p12
+  keyPath: /Users/nestmilk/Documents/sell_java/h5.p12
   notifyUrl: http://pombase.natapp1.cc/sell/pay/notify
   templateId:
     orderStatus: lb6JEX85jdfPVojlozD1wW05pU4FUQNJBdrmmoZG9Yk
